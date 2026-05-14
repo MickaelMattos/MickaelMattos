@@ -1,12 +1,17 @@
 <div align="center">
 
-# Mickael Mattos
-### Desenvolvedor Web · Especialista em Cartórios e Escritórios Extrajudiciais
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mickael%20Mattos&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20·%20Especialista%20em%20Cartórios&descAlignY=60&descSize=16&descColor=a8b2d8" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Mickael!+%F0%9F%91%8B;Desenvolvedor+Web+Full+Stack;Especialista+em+Cart%C3%B3rios+%26+Ofícios;Transformo+cart%C3%B3rios+em+presen%C3%A7a+digital)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciomgmattos)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521975250006)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mickael-mattos.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mickael.escrevente@gmail.com)
+
+![Visitantes](https://komarev.com/ghpvc/?username=MickaelMattos&color=e94560&style=flat-square&label=Visualizações+do+Perfil)
 
 </div>
 
@@ -71,6 +76,12 @@ const mickael = {
 
 </div>
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MickaelMattos&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
 
 ## 💼 O que ofereço para Cartórios
@@ -100,8 +111,6 @@ Maricá · Niterói · Rio de Janeiro · e toda a região — **atendimento 100%
 
 *"Transformo a presença digital do seu cartório com sites modernos, seguros e alinhados às normas do CNJ e CGJ-RJ."*
 
----
-
-![Visitantes](https://komarev.com/ghpvc/?username=MickaelMattos&color=00A19C&style=flat-square&label=Visualizações+do+Perfil)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
 
 </div>

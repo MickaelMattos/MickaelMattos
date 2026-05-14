@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00a19c)](https://www.linkedin.com/in/marciomgmattos)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=00a19c)](https://wa.me/5521975250006)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00a19c)](https://mickael-mattos.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00a19c)](https://portfolio-azure-eight-1tr3bd39w1.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00a19c)](mailto:mickael.escrevente@gmail.com)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=MickaelMattos&color=00a19c&style=flat-square&label=Visualizações+do+Perfil)
@@ -25,7 +25,7 @@ Desenvolvedor web de **Maricá, RJ**, especializado em criar sites modernos para
 const mickael = {
   localização:    "Maricá, RJ 🇧🇷",
   especialidade:  "Desenvolvimento Web para Cartórios",
-  experiência:    "Escrevente → Desenvolvedor",
+  experiência:    "Escrevente → Desenvolvedor Web",
   conhecimentos:  ["CGJ-RJ", "CNJ Provimentos", "Emolumentos", "RCPN"],
   foco:           "Sites modernos + SEO + Portal de Transparência",
   contato:        "wa.me/5521975250006"
@@ -96,7 +96,7 @@ Site oficial com portal de transparência, SEO avançado, formulários e integra
 
 ## 📍 Onde atuo
 
-Maricá · Niterói · Rio de Janeiro · e toda a região — **atendimento 100% remoto disponível**
+Maricá · Niterói · Rio de Janeiro — **atendimento 100% remoto disponível**
 
 ---
 

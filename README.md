@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mickael%20Mattos&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20·%20Especialista%20em%20Cartórios&descAlignY=60&descSize=16&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0d1f1f,100:0d0d0d&height=180&section=header&text=MICKAEL%20MATTOS&fontSize=52&fontColor=00a19c&animation=fadeIn&fontAlignY=40&desc=Desenvolvedor%20Web%20·%20Especialista%20em%20Cartórios&descAlignY=62&descSize=15&descColor=c6c6c6" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Mickael!+%F0%9F%91%8B;Desenvolvedor+Web+Full+Stack;Especialista+em+Cart%C3%B3rios+%26+Ofícios;Transformo+cart%C3%B3rios+em+presen%C3%A7a+digital)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=20&pause=1200&color=00A19C&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+sou+o+Mickael+%F0%9F%91%8B;Desenvolvedor+Web+Full+Stack;Escrevente+%E2%86%92+Desenvolvedor;Especialista+em+Cart%C3%B3rios+%26+Of%C3%ADcios)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciomgmattos)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521975250006)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mickael-mattos.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mickael.escrevente@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00a19c)](https://www.linkedin.com/in/marciomgmattos)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=00a19c)](https://wa.me/5521975250006)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00a19c)](https://mickael-mattos.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00a19c)](mailto:mickael.escrevente@gmail.com)
 
-![Visitantes](https://komarev.com/ghpvc/?username=MickaelMattos&color=e94560&style=flat-square&label=Visualizações+do+Perfil)
+![Visitantes](https://komarev.com/ghpvc/?username=MickaelMattos&color=00a19c&style=flat-square&label=Visualizações+do+Perfil)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor web de **Maricá, RJ**, especializado em criar sites modernos e profissionais para o **setor extrajudicial**. Minha experiência como escrevente me deu um conhecimento profundo das necessidades reais dos cartórios — e eu uso isso para entregar soluções digitais que realmente fazem diferença.
+Desenvolvedor web de **Maricá, RJ**, especializado em criar sites modernos para o **setor extrajudicial**. Minha experiência como escrevente me deu conhecimento profundo das necessidades reais dos cartórios — e uso isso para entregar soluções digitais que realmente fazem diferença.
 
 ```javascript
 const mickael = {
@@ -34,12 +34,15 @@ const mickael = {
 
 ---
 
-## 🚀 Projetos em Produção
+## 🚀 Projeto em Produção
 
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| **[Cartório 3º Distrito de Maricá](https://cartorio3marica.com.br)** | Site oficial com portal de transparência, SEO avançado, formulários e WhatsApp | ✅ Online |
-| **[Portfólio Profissional](https://mickael-mattos.vercel.app)** | Site portfólio com projetos e planos de serviço para cartórios | ✅ Online |
+<div align="center">
+
+[![Cartório 3º Distrito](https://img.shields.io/badge/Cartório_3º_Distrito_de_Maricá-0d0d0d?style=for-the-badge&logo=google-chrome&logoColor=00a19c)](https://cartorio3marica.com.br)
+
+</div>
+
+Site oficial com portal de transparência, SEO avançado, formulários e integração WhatsApp — desenvolvido do zero para atender às normas do **CNJ** e **CGJ-RJ**.
 
 ---
 
@@ -47,15 +50,15 @@ const mickael = {
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=00a19c)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=00a19c)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00a19c)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00a19c)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=00a19c)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00a19c)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00a19c)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00a19c)
+![SEO](https://img.shields.io/badge/SEO-0d0d0d?style=for-the-badge&logo=google&logoColor=00a19c)
 
 </div>
 
@@ -65,20 +68,14 @@ const mickael = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MickaelMattos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelMattos&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MickaelMattos&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=00a19c&icon_color=00a19c&text_color=c6c6c6&border_color=00a19c&hide_border=false&count_private=true&locale=pt-br" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelMattos&layout=compact&theme=dark&bg_color=0d0d0d&title_color=00a19c&text_color=c6c6c6&border_color=00a19c&hide_border=false&locale=pt-br" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MickaelMattos&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MickaelMattos&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MickaelMattos&theme=dark&background=0d0d0d&ring=00a19c&fire=80142b&currStreakLabel=00a19c&sideLabels=c6c6c6&dates=c6c6c6&hide_border=false&border=00a19c&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -111,6 +108,6 @@ Maricá · Niterói · Rio de Janeiro · e toda a região — **atendimento 100%
 
 *"Transformo a presença digital do seu cartório com sites modernos, seguros e alinhados às normas do CNJ e CGJ-RJ."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0d1f1f,100:0d0d0d&height=120&section=footer" />
 
 </div>
